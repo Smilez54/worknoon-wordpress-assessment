@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Worknoon Founder",
+  "jobTitle": "Founder & Marketing Strategist",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Worknoon"
+  },
+  "description": "Founder of Worknoon, focused on building scalable marketing systems, high-converting websites, and data-driven growth strategies for businesses."
+}
