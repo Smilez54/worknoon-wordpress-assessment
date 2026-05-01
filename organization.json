@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Worknoon",
+  "url": "https://worknoon.com",
+  "logo": "https://worknoon.com/logo.png",
+  "description": "Worknoon is a performance-driven marketing agency specializing in digital marketing, web development, branding, and growth strategy for modern businesses.",
+  "sameAs": [
+    "https://www.instagram.com/worknoon",
+    "https://www.linkedin.com/company/worknoon",
+    "https://twitter.com/worknoon"
+  ]
+}
